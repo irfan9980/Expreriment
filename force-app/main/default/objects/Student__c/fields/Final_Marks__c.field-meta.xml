@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Final_Marks__c</fullName>
+    <externalId>false</externalId>
+    <formula>(  First_Internal_Marks__c  +  Second_Internal_Marks__c  +  Third_Internal_Marks__c  )  / 3</formula>
+    <label>Final Marks</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

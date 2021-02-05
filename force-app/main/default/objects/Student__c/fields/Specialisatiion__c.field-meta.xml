@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Specialisatiion__c</fullName>
+    <externalId>false</externalId>
+    <label>Specialisatiion</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Course__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>BBA</fullName>
+                <default>false</default>
+                <label>BBA</label>
+            </value>
+            <value>
+                <fullName>BCOM</fullName>
+                <default>false</default>
+                <label>BCOM</label>
+            </value>
+            <value>
+                <fullName>BCA</fullName>
+                <default>false</default>
+                <label>BCA</label>
+            </value>
+            <value>
+                <fullName>Computer Science</fullName>
+                <default>false</default>
+                <label>Computer Science</label>
+            </value>
+            <value>
+                <fullName>Information Science</fullName>
+                <default>false</default>
+                <label>Information Science</label>
+            </value>
+            <value>
+                <fullName>Electronics</fullName>
+                <default>false</default>
+                <label>Electronics</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Degree</controllingFieldValue>
+            <valueName>BBA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Degree</controllingFieldValue>
+            <valueName>BCOM</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Degree</controllingFieldValue>
+            <valueName>BCA</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Engineering</controllingFieldValue>
+            <valueName>Computer Science</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Engineering</controllingFieldValue>
+            <valueName>Information Science</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Engineering</controllingFieldValue>
+            <valueName>Electronics</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

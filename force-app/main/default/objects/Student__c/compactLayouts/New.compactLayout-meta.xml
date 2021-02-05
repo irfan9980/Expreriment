@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New</fullName>
+    <fields>First_Internal_Marks__c</fields>
+    <fields>Second_Internal_Marks__c</fields>
+    <fields>Third_Internal_Marks__c</fields>
+    <label>New</label>
+</CompactLayout>
