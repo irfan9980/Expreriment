@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 82DD-0D7E
+
+ Directory of C:\Users\Rahamath\OneDrive\Desktop\My Project
+
+02/04/2021  10:47 PM    <DIR>          .
+02/04/2021  10:47 PM    <DIR>          ..
+02/04/2021  10:48 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  47,129,243,648 bytes free
