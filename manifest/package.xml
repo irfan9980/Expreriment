@@ -30,7 +30,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>StaticResource</name>
+        <name>CustomObjects</name>
     </types>
     <version>50.0</version>
 </Package>
