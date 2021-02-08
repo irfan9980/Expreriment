@@ -30,7 +30,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>CustomObjects</name>
+        <name>CustomObject</name>
     </types>
     <version>50.0</version>
 </Package>
